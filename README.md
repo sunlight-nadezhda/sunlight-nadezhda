@@ -25,6 +25,7 @@ Purposeful and responsible beginner front-end developer.
 *   React.js
 *   Node.js
 *   MongoDB
+*   Jest
 *   Git
 
 <div align="center" style="margin: 40px 0">
