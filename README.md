@@ -1,5 +1,5 @@
 ### Hi, I'm Nadezhda 👋
-Purposeful and responsible beginner front-end developer. I find a common language with different people. I appreciate honesty and willingness to help.
+Purposeful and responsible beginner front-end developer with a motivation for development. I find a common language with different people. I appreciate honesty and willingness to help.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sunlight-nadezhda&show_icons=true&count_private=true"><img
