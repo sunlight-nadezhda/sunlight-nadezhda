@@ -20,10 +20,9 @@ Purposeful and responsible beginner front-end developer with a motivation for de
 ## 🛠 Technical Stack
 *   HTML
 *   CSS
-*   Javascript
-*   OOP
-*   React.js
-*   Node.js
+*   JavaScript
+*   React
+*   Express.js
 *   MongoDB
 *   Jest
 *   Git
