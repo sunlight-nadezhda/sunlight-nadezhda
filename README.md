@@ -22,8 +22,10 @@ Purposeful and responsible beginner front-end developer with a motivation for de
 *   CSS
 *   JavaScript
 *   React
+*   Node.js
 *   Express.js
 *   MongoDB
+*   Mongoose
 *   Jest
 *   Git
 
