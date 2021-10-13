@@ -18,14 +18,18 @@ Purposeful and responsible beginner front-end developer with a motivation for de
 </p>
 
 ## 🛠 Technical Stack
-*   HTML
-*   CSS
+*   HTML5
+*   CSS3
+*   БЭМ
 *   JavaScript
+*   ООП
+*   Webpack
 *   React
 *   Node.js
 *   Express.js
 *   MongoDB
 *   Mongoose
+*   API
 *   Jest
 *   Git
 
