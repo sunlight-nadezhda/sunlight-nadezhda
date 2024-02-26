@@ -14,7 +14,7 @@ Purposeful and responsible beginner front-end developer with a motivation for de
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:nadezhda.malohatko@yandex.ru'>nadezhda.malohatko@yandex.ru</a>
+   📫 How to reach me: <a href='mailto:mysunlight86@gmail.com'>mysunlight86@gmail.com</a>
 </p>
 
 ## 🛠 Technical Stack
